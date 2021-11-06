@@ -1,0 +1,46 @@
+    .conteudo{
+
+    background-image: url(src/assets/img/imagem.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    position: fixed;
+   
+
+  }
+
+  .conteudo .form-login {
+
+
+      background-color: rgba(0, 0, 156, 0.6);
+      position: absolute;
+      top:8%;
+      left: 65%;
+      transform: translate(-100%,60%);
+      padding: 55px;
+      border-radius: 28px;
+      color: white;
+      font-size: 15px;
+  
+
+  }
+
+  .conteudo .form-login input{
+
+    width: 90%;
+    height: 32px;
+    margin-left: 5%;
+    
+}
+
+.conteudo .form-login button{
+
+
+  width: 38%;
+  height: 30;
+  margin-left: 8%;
+  transform: translate(10%,-18%);
+  
+
+}
+

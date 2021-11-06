@@ -1,0 +1,66 @@
+.conteudo{
+
+    background-image: url(src/assets/img/imagem.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    position: fixed;
+
+  }
+
+
+  .conteudo form {
+
+
+    background-color: rgba(0, 0, 156, 0.6);
+    position: absolute;
+    top:30%;
+    left: 65%;
+    transform: translate(-100%,-30%);
+    padding: 70px;
+    border-radius: 60px;
+    color: white;
+    font-size: 15px;
+    
+  }
+
+  .conteudo input{
+
+    width: 95%;
+    margin-left: 15%;
+    padding: 2%;
+    
+  }
+
+  .conteudo small{
+
+    margin-left: 15%;
+  }
+
+  .coteudo .forCadastro .mb-3  label {
+
+    margin-left: 2%;
+  }
+
+  .conteudo form button{
+
+    transform: translate(10%,20%);
+    width: 55%;
+    height: 40px;
+    margin-left: 32%;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-top: 4%;
+
+  }
+
+  .conteudo b{
+
+    margin-left: 20%;
+    margin-bottom: 5%;
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+   
+  }
+

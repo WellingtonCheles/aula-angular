@@ -1,0 +1,56 @@
+    .conteudo{
+
+    background-image: url(src/assets/img/imagem.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    position: fixed;
+
+  }
+
+  .conteudo .row input {
+
+    width: 95%;
+    height: 40px;
+    margin-left: 2%;
+    border-radius: 15px;
+    margin-top: 5%;
+  }
+
+  .conteudo .row .form-select{
+
+    width: 95%;
+    height: 40px;
+    margin-left: 2%;
+    border-radius: 15px;
+    margin-top: 5%;
+  
+
+
+  }
+
+  .conteudo .row .btn-primary{
+
+    width: 45%;
+    height: 40px;
+    margin-left: 25%;
+    border-radius: 15px;
+    background-color: rgb(140,23,23);
+    font-weight: bold;
+    margin-top: 4%;
+
+  }
+  .conteudo .row{
+   
+    background-color: rgba(0, 0, 156, 0.6);
+    position: absolute;
+    top:30%;
+    left: 65%;
+    transform: translate(-90%,-8%);
+    padding: 30px;
+    border-radius: 30px;
+    color: white;
+    font-size: 15px;
+  }
+  
+
